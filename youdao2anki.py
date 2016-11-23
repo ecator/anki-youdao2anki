@@ -2,6 +2,7 @@
 
 import xml.sax
 import sys
+import re
 from xml.dom.minidom import parse
 import xml.dom.minidom
 reload(sys)  
@@ -33,6 +34,16 @@ for item in items:
       Items=Item
    else:
       Items+='\n'+Item
+
+#处理换行符，替换不同词性之间添加<br>标签
+def handleBrTag(matched):
+   #print matched.group()
+   return matched.group().replace(' ','<br>',1)
+
+patt=r'( (adj\.))|( (n\.))|( (adv\.))|( (prep\.))|( (pron\.))|( (v\.))|( (conj\.))|( (vi\.))|( (vt\.))|( (pl\.))|( (c\.))|( (num\.))'
+Items=re.sub(patt,handleBrTag,Items)
+
+#保存文件
 print '解析完成，一共解析 %d 条数据'%len(items)
 fileName=''
 while fileName=='':
