@@ -10,6 +10,7 @@
 	<style type="text/css">
 		*{
 			margin: 0px;
+			padding: 0px;
 		}
 		header{
 			margin: 10px auto;
@@ -20,9 +21,11 @@
 			text-align: center;
 		}
 		.container{
+			border:black solid 0px;
 			margin: 10px auto;
 			width: 1000px;
 			text-align: center;
+			overflow: hidden;
 		}
 		.navi{
 			width: 10%;
@@ -31,11 +34,13 @@
 		.parser{
 			width: 90%;
 			float: left;
+			border:red solid 0px;
 		}
 		.yd,.anki-container{
-			width: 100%;
+			width: 95%;
 			min-height: 200px;
 			font-size: 10px;
+			float: left;
 		}
 		.yd{
 			color:#F44C4C;
@@ -45,6 +50,7 @@
 			color: #0059B1;
 			border:#0059B1 solid 2px;
 			overflow: hidden;
+			margin-top: 5px;
 		}
 		.anki-table{
 			width: 100%;
@@ -69,6 +75,13 @@
 		.navi p{
 			text-align: left;
 			font-size: 16px;
+		}
+		footer{
+			border:grey solid 0px;
+			margin: 20px auto;
+			width: 1000px;
+			text-align: center;
+			font-size: 15px;
 		}
 	</style>
 	<script type="text/javascript">
@@ -169,17 +182,17 @@
 <body>
 	<header>有道词典转Anki记忆库</header>
 	<div class="container">
-	<div class="navi">
-		<h1 class="step1">Step1:</h1>
-		<p>把有道词典导出的XX.xml选择用记事本打开后粘贴到右边的红色文本框中→</p>
-		<h1 class="step2">Step2:</h1>
-		<p>点击右边的蓝色表格会出现Anki格式的文本<br>全选后另存为txt文件即可<br>（注意编码为utf-8）</p>
+		<div class="navi">
+			<h1 class="step1">Step1:</h1>
+			<p>把有道词典导出的XX.xml选择用记事本打开后粘贴到右边的红色文本框中→</p>
+			<h1 class="step2">Step2:</h1>
+			<p>点击右边的蓝色表格会出现Anki格式的文本<br>全选后另存为txt文件即可<br>（注意编码为utf-8）</p>
+		</div>
+		<div class="parser">
+			<textarea oninput="yd2anki(this)" class="yd" id="yd"></textarea>
+			<div class="anki-container" id="anki"></div>
+		</div>
 	</div>
-	<div class="parser">
-		<textarea oninput="yd2anki(this)" class="yd" id="yd"></textarea><br>
-		<div class="anki-container" id="anki"><div>
-	</div>
-	</div>
-	<footer></footer>
+	<footer><a target="_blank" href="https://zhuanlan.zhihu.com/p/24288262">详细使用说明</a>&nbsp;By&nbsp;易小猫&nbsp;</footer>
 </body>
 </html>
