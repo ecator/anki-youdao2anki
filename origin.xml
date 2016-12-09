@@ -1,6 +1,40 @@
-<wordbook><item>    <word>incentive</word>
-    <trans><![CDATA[n. 动机；刺激 adj. 激励的；刺激的]]></trans>
-    <phonetic><![CDATA[[ɪn'sɛntɪv]]]></phonetic>
+<wordbook><item>    <word>lord</word>
+    <trans><![CDATA[n. 主；上帝 
+int. 主，天啊 
+vt. 使成贵族 
+vi. 作威作福，称王称霸 
+n. (Lord)人名；(瑞典)洛德；(法)洛尔]]></trans>
+    <phonetic><![CDATA[[lɔːd]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>expel</word>
+    <trans><![CDATA[vt. 驱逐；开除]]></trans>
+    <phonetic><![CDATA[[ɪk'spɛl]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>mechanism</word>
+    <trans><![CDATA[n. 机制；原理，途径；进程；机械装置；技巧]]></trans>
+    <phonetic><![CDATA[['mɛkənɪzəm]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>symptom</word>
+    <trans><![CDATA[n. [临床] 症状；征兆]]></trans>
+    <phonetic><![CDATA[['sɪmptəm]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>eliminate poverty</word>
+    <trans><![CDATA[消除贫困]]></trans>
+    <phonetic><![CDATA[[eliminate+poverty]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>elaborate</word>
+    <trans><![CDATA[adj. 精心制作的；详尽的；煞费苦心的 vt. 精心制作；详细阐述；从简单成分合成（复杂有机物） vi. 详细描述；变复杂]]></trans>
+    <phonetic><![CDATA[[ɪ'læbəret]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>warranty</word>
+    <trans><![CDATA[n. 保证；担保；授权；（正当）理由]]></trans>
+    <phonetic><![CDATA[['wɔrənti]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
 </item></wordbook>
