@@ -1,7 +1,7 @@
-﻿lord	[lɔːd]	n. 主；上帝 <br>int. 主，天啊 <br>vt. 使成贵族 <br>vi. 作威作福，称王称霸 <br>n. (Lord)人名；(瑞典)洛德；(法)洛尔	
-expel	[ɪk'spɛl]	vt. 驱逐；开除	
-mechanism	['mɛkənɪzəm]	n. 机制；原理，途径；进程；机械装置；技巧	
-symptom	['sɪmptəm]	n. [临床] 症状；征兆	
-eliminate poverty	[eliminate+poverty]	消除贫困	
-elaborate	[ɪ'læbəret]	adj. 精心制作的；详尽的；煞费苦心的<br>vt. 精心制作；详细阐述；从简单成分合成（复杂有机物）<br>vi. 详细描述；变复杂	
-warranty	['wɔrənti]	n. 保证；担保；授权；（正当）理由	
+lord	[lɔːd]	n. 主；上帝 <br>int. 主，天啊 <br>vt. 使成贵族 <br>vi. 作威作福，称王称霸 <br>n. (Lord)人名；(瑞典)洛德；(法)洛尔
+expel	[ɪk'spɛl]	vt. 驱逐；开除
+mechanism	['mɛkənɪzəm]	n. 机制；原理，途径；进程；机械装置；技巧
+symptom	['sɪmptəm]	n. [临床] 症状；征兆
+eliminate poverty	[eliminate+poverty]	消除贫困
+elaborate	[ɪ'læbəret]	adj. 精心制作的；详尽的；煞费苦心的<br>vt. 精心制作；详细阐述；从简单成分合成（复杂有机物）<br>vi. 详细描述；变复杂
+warranty	['wɔrənti]	n. 保证；担保；授权；（正当）理由

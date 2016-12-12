@@ -45,9 +45,9 @@ Items=re.sub(patt,handleBrTag,Items)
 
 #保存文件
 print '解析完成，一共解析 %d 条数据'%len(items)
-fileName=''
-while fileName=='':
-   fileName=raw_input('请输入保存文件名：')
+fileName=raw_input('请输入保存文件名(不输入则保存为out.txt)：')
+if not fileName:
+	fileName="out.txt"
 try:
    f=open(fileName,'w')
    f.write(Items)
