@@ -1,40 +1,71 @@
-<wordbook><item>    <word>lord</word>
-    <trans><![CDATA[n. 主；上帝 
-int. 主，天啊 
-vt. 使成贵族 
-vi. 作威作福，称王称霸 
-n. (Lord)人名；(瑞典)洛德；(法)洛尔]]></trans>
-    <phonetic><![CDATA[[lɔːd]]]></phonetic>
+<wordbook><item>    <word>cuz</word>
+    <trans><![CDATA[abbr. 因为（cause）]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
-</item><item>    <word>expel</word>
-    <trans><![CDATA[vt. 驱逐；开除]]></trans>
-    <phonetic><![CDATA[[ɪk'spɛl]]]></phonetic>
+</item><item>    <word>snippet</word>
+    <trans><![CDATA[n. 小片；片断；不知天高地厚的年轻人]]></trans>
+    <phonetic><![CDATA[]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
-</item><item>    <word>mechanism</word>
-    <trans><![CDATA[n. 机制；原理，途径；进程；机械装置；技巧]]></trans>
-    <phonetic><![CDATA[['mɛkənɪzəm]]]></phonetic>
+</item><item>    <word>substitution</word>
+    <trans><![CDATA[n. 代替；[数] 置换；代替物]]></trans>
+    <phonetic><![CDATA[[,sʌbstə'tjʊʃən]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
-</item><item>    <word>symptom</word>
-    <trans><![CDATA[n. [临床] 症状；征兆]]></trans>
-    <phonetic><![CDATA[['sɪmptəm]]]></phonetic>
+</item><item>    <word>omit</word>
+    <trans><![CDATA[vt. 省略；遗漏；删除；疏忽]]></trans>
+    <phonetic><![CDATA[[ə'mɪt]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
-</item><item>    <word>eliminate poverty</word>
-    <trans><![CDATA[消除贫困]]></trans>
-    <phonetic><![CDATA[[eliminate+poverty]]]></phonetic>
+</item><item>    <word>adjacent</word>
+    <trans><![CDATA[adj. 邻近的，毗连的]]></trans>
+    <phonetic><![CDATA[[ə'dʒesnt]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
-</item><item>    <word>elaborate</word>
-    <trans><![CDATA[adj. 精心制作的；详尽的；煞费苦心的 vt. 精心制作；详细阐述；从简单成分合成（复杂有机物） vi. 详细描述；变复杂]]></trans>
-    <phonetic><![CDATA[[ɪ'læbəret]]]></phonetic>
+</item><item>    <word>boundary</word>
+    <trans><![CDATA[n. 边界；范围；分界线]]></trans>
+    <phonetic><![CDATA[['baʊndri]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
-</item><item>    <word>warranty</word>
-    <trans><![CDATA[n. 保证；担保；授权；（正当）理由]]></trans>
-    <phonetic><![CDATA[['wɔrənti]]]></phonetic>
+</item><item>    <word>normalize</word>
+    <trans><![CDATA[vt. 使正常化；使规格化，使标准化]]></trans>
+    <phonetic><![CDATA[['nɔrməlaɪz]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>Consecutive Interpreting</word>
+    <trans><![CDATA[交替传译]]></trans>
+    <phonetic><![CDATA[[Consecutive+Interpreting]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>simultaneous interpreting</word>
+    <trans><![CDATA[同声传译]]></trans>
+    <phonetic><![CDATA[[simultaneous+interpreting]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>combination</word>
+    <trans><![CDATA[n. 结合；组合；联合；[化学] 化合]]></trans>
+    <phonetic><![CDATA[[,kɑmbɪ'neʃən]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>invade</word>
+    <trans><![CDATA[vt. 侵略；侵袭；侵扰；涌入 vi. 侵略；侵入；侵袭；侵犯]]></trans>
+    <phonetic><![CDATA[[ɪn'ved]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>victim</word>
+    <trans><![CDATA[n. 受害人；牺牲品；牺牲者]]></trans>
+    <phonetic><![CDATA[['vɪktɪm]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>penalty</word>
+    <trans><![CDATA[n. 罚款，罚金；处罚]]></trans>
+    <phonetic><![CDATA[['pɛnəlti]]]></phonetic>
+    <tags></tags>
+    <progress>-1</progress>
+</item><item>    <word>congress</word>
+    <trans><![CDATA[n. 国会；代表大会；会议；社交]]></trans>
+    <phonetic><![CDATA[['kɑŋɡrəs]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
 </item></wordbook>

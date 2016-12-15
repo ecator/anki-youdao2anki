@@ -1,7 +1,14 @@
-lord	[lɔːd]	n. 主；上帝 <br>int. 主，天啊 <br>vt. 使成贵族 <br>vi. 作威作福，称王称霸 <br>n. (Lord)人名；(瑞典)洛德；(法)洛尔
-expel	[ɪk'spɛl]	vt. 驱逐；开除
-mechanism	['mɛkənɪzəm]	n. 机制；原理，途径；进程；机械装置；技巧
-symptom	['sɪmptəm]	n. [临床] 症状；征兆
-eliminate poverty	[eliminate+poverty]	消除贫困
-elaborate	[ɪ'læbəret]	adj. 精心制作的；详尽的；煞费苦心的<br>vt. 精心制作；详细阐述；从简单成分合成（复杂有机物）<br>vi. 详细描述；变复杂
-warranty	['wɔrənti]	n. 保证；担保；授权；（正当）理由
+cuz		abbr. 因为（cause）
+snippet		n. 小片；片断；不知天高地厚的年轻人
+substitution	[,sʌbstə'tjʊʃən]	n. 代替；[数] 置换；代替物
+omit	[ə'mɪt]	vt. 省略；遗漏；删除；疏忽
+adjacent	[ə'dʒesnt]	adj. 邻近的，毗连的
+boundary	['baʊndri]	n. 边界；范围；分界线
+normalize	['nɔrməlaɪz]	vt. 使正常化；使规格化，使标准化
+Consecutive Interpreting	[Consecutive+Interpreting]	交替传译
+simultaneous interpreting	[simultaneous+interpreting]	同声传译
+combination	[,kɑmbɪ'neʃən]	n. 结合；组合；联合；[化学] 化合
+invade	[ɪn'ved]	vt. 侵略；侵袭；侵扰；涌入<br>vi. 侵略；侵入；侵袭；侵犯
+victim	['vɪktɪm]	n. 受害人；牺牲品；牺牲者
+penalty	['pɛnəlti]	n. 罚款，罚金；处罚
+congress	['kɑŋɡrəs]	n. 国会；代表大会；会议；社交
