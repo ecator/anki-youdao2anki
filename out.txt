@@ -1,14 +1,4 @@
-cuz		abbr. 因为（cause）
-snippet		n. 小片；片断；不知天高地厚的年轻人
-substitution	[,sʌbstə'tjʊʃən]	n. 代替；[数] 置换；代替物
-omit	[ə'mɪt]	vt. 省略；遗漏；删除；疏忽
-adjacent	[ə'dʒesnt]	adj. 邻近的，毗连的
-boundary	['baʊndri]	n. 边界；范围；分界线
-normalize	['nɔrməlaɪz]	vt. 使正常化；使规格化，使标准化
-Consecutive Interpreting	[Consecutive+Interpreting]	交替传译
-simultaneous interpreting	[simultaneous+interpreting]	同声传译
-combination	[,kɑmbɪ'neʃən]	n. 结合；组合；联合；[化学] 化合
-invade	[ɪn'ved]	vt. 侵略；侵袭；侵扰；涌入<br>vi. 侵略；侵入；侵袭；侵犯
-victim	['vɪktɪm]	n. 受害人；牺牲品；牺牲者
-penalty	['pɛnəlti]	n. 罚款，罚金；处罚
-congress	['kɑŋɡrəs]	n. 国会；代表大会；会议；社交
+passphrase	[passphrase]	n. 密码；通行码；口令短语
+grant	[ɡrænt]	vt. 授予；允许；承认<br>vi. 同意<br>n. 拨款；[法] 授予物<br>n. (Grant)人名；(瑞典、葡、西、俄、罗、英、塞、德、意)格兰特；(法)格朗
+squelch	[skwɛltʃ]	vt. 消除；镇压；压碎；使…咯吱咯吱的响<br>vi. 嘎吱作响<br>n. 噪声控制；嘎吱声；压倒对方的反驳；压碎的一堆
+implicit	[ɪm'plɪsɪt]	adj. 含蓄的；暗示的；盲从的

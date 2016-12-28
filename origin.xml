@@ -1,71 +1,21 @@
-<wordbook><item>    <word>cuz</word>
-    <trans><![CDATA[abbr. 因为（cause）]]></trans>
-    <phonetic><![CDATA[]]></phonetic>
+<wordbook><item>    <word>passphrase</word>
+    <trans><![CDATA[n. 密码；通行码；口令短语]]></trans>
+    <phonetic><![CDATA[[passphrase]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
-</item><item>    <word>snippet</word>
-    <trans><![CDATA[n. 小片；片断；不知天高地厚的年轻人]]></trans>
-    <phonetic><![CDATA[]]></phonetic>
+</item><item>    <word>grant</word>
+    <trans><![CDATA[vt. 授予；允许；承认 vi. 同意 n. 拨款；[法] 授予物 n. (Grant)人名；(瑞典、葡、西、俄、罗、英、塞、德、意)格兰特；(法)格朗]]></trans>
+    <phonetic><![CDATA[[ɡrænt]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
-</item><item>    <word>substitution</word>
-    <trans><![CDATA[n. 代替；[数] 置换；代替物]]></trans>
-    <phonetic><![CDATA[[,sʌbstə'tjʊʃən]]]></phonetic>
+</item><item>    <word>squelch</word>
+    <trans><![CDATA[vt. 消除；镇压；压碎；使…咯吱咯吱的响 vi. 嘎吱作响 n. 噪声控制；嘎吱声；压倒对方的反驳；压碎的一堆]]></trans>
+    <phonetic><![CDATA[[skwɛltʃ]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
-</item><item>    <word>omit</word>
-    <trans><![CDATA[vt. 省略；遗漏；删除；疏忽]]></trans>
-    <phonetic><![CDATA[[ə'mɪt]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>adjacent</word>
-    <trans><![CDATA[adj. 邻近的，毗连的]]></trans>
-    <phonetic><![CDATA[[ə'dʒesnt]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>boundary</word>
-    <trans><![CDATA[n. 边界；范围；分界线]]></trans>
-    <phonetic><![CDATA[['baʊndri]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>normalize</word>
-    <trans><![CDATA[vt. 使正常化；使规格化，使标准化]]></trans>
-    <phonetic><![CDATA[['nɔrməlaɪz]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>Consecutive Interpreting</word>
-    <trans><![CDATA[交替传译]]></trans>
-    <phonetic><![CDATA[[Consecutive+Interpreting]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>simultaneous interpreting</word>
-    <trans><![CDATA[同声传译]]></trans>
-    <phonetic><![CDATA[[simultaneous+interpreting]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>combination</word>
-    <trans><![CDATA[n. 结合；组合；联合；[化学] 化合]]></trans>
-    <phonetic><![CDATA[[,kɑmbɪ'neʃən]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>invade</word>
-    <trans><![CDATA[vt. 侵略；侵袭；侵扰；涌入 vi. 侵略；侵入；侵袭；侵犯]]></trans>
-    <phonetic><![CDATA[[ɪn'ved]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>victim</word>
-    <trans><![CDATA[n. 受害人；牺牲品；牺牲者]]></trans>
-    <phonetic><![CDATA[['vɪktɪm]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>penalty</word>
-    <trans><![CDATA[n. 罚款，罚金；处罚]]></trans>
-    <phonetic><![CDATA[['pɛnəlti]]]></phonetic>
-    <tags></tags>
-    <progress>-1</progress>
-</item><item>    <word>congress</word>
-    <trans><![CDATA[n. 国会；代表大会；会议；社交]]></trans>
-    <phonetic><![CDATA[['kɑŋɡrəs]]]></phonetic>
+</item><item>    <word>implicit</word>
+    <trans><![CDATA[adj. 含蓄的；暗示的；盲从的]]></trans>
+    <phonetic><![CDATA[[ɪm'plɪsɪt]]]></phonetic>
     <tags></tags>
     <progress>-1</progress>
 </item></wordbook>
