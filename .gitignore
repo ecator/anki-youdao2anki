@@ -1,2 +1,5 @@
 *.tmp
 YDdictBasic/
+test.py
+origin.xml
+out.txt

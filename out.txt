@@ -1,4 +1,0 @@
-passphrase	[passphrase]	n. 密码；通行码；口令短语
-grant	[ɡrænt]	vt. 授予；允许；承认<br>vi. 同意<br>n. 拨款；[法] 授予物<br>n. (Grant)人名；(瑞典、葡、西、俄、罗、英、塞、德、意)格兰特；(法)格朗
-squelch	[skwɛltʃ]	vt. 消除；镇压；压碎；使…咯吱咯吱的响<br>vi. 嘎吱作响<br>n. 噪声控制；嘎吱声；压倒对方的反驳；压碎的一堆
-implicit	[ɪm'plɪsɪt]	adj. 含蓄的；暗示的；盲从的
