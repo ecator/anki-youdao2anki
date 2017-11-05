@@ -30,7 +30,7 @@ for item in items:
    trans = item.getElementsByTagName('trans')[0]
    if trans.hasChildNodes(): Trans = trans.firstChild.data.replace('\n','<br>')
    Item=Word+'\t'+Phonetic+'\t'+Trans
-   print '解析 %s'%Item
+   print u'解析 %s'%Item
    if Items=='':
       Items=Item
    else:
@@ -45,17 +45,18 @@ patt=r'( (adj\.))|( (n\.))|( (adv\.))|( (prep\.))|( (pron\.))|( (v\.))|( (conj\.
 Items=re.sub(patt,handleBrTag,Items)
 
 #保存文件
-print '解析完成，一共解析 %d 条数据'%len(items)
-fileName=raw_input('请输入保存文件名(不输入则保存为out.txt)：')
+print u'解析完成，一共解析 %d 条数据'%len(items)
+print u'请输入保存文件名(不输入则保存为out.txt)：'
+fileName=raw_input()
 if not fileName:
 	fileName="out.txt"
 try:
    f=open(fileName,'w')
    f.write(Items)
 except Exception as e:
-   print '保存文件 %s 失败'%fileName
+   print u'保存文件 %s 失败'%fileName
 else:
-   print '保存文件 %s 成功'%fileName
+   print u'保存文件 %s 成功'%fileName
 finally:
    f.close()
 sys.exit(0)
